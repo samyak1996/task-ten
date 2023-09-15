@@ -1,0 +1,24 @@
+{
+  "courseData": [
+    {
+      "cid": 1,
+      "name": "Mathematics",
+      "instructor": "Dr. Smith"
+    },
+    {
+      "cid": 2,
+      "name": "History",
+      "instructor": "Prof. Johnson"
+    },
+    {
+      "cid": 3,
+      "name": "Science",
+      "instructor": "Prof. Mark"
+    },
+    {
+      "cid": 4,
+      "name": "Music",
+      "instructor": "Prof. Austin"
+    }
+  ]
+}

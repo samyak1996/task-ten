@@ -1,0 +1,35 @@
+{
+  "studentData" : [
+  {
+    "sid": 1,
+    "name": "Alice",
+    "age": 20,
+    "courses": [1, 2]
+  },
+  {
+    "sid": 2,
+    "name": "Bob",
+    "age": 22,
+    "courses": [2, 3]
+  },
+  {
+    
+    "sid": 3,
+    "name": "Daniel",
+    "age": 21,
+    "courses": [4, 5]
+  },
+  {
+    "sid": 4,
+    "name": "Dylan",
+    "age": 20,
+    "courses": [1, 2]
+  },
+  {
+    "sid": 5,
+    "name": "Henry",
+    "age": 22,
+    "courses": [1, 2]
+  }
+  ]
+}
